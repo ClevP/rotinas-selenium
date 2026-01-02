@@ -9,7 +9,8 @@ urls = [
     "https://mqv.institutodoalivio.com.br/Tasks/integracao_evo/rotina_prescricao_allp.php",
     "https://mqv.institutodoalivio.com.br/Tasks/integracao_pacto/rotina_integracao_pacto.php",
     "https://mqv.institutodoalivio.com.br/Tasks/integracao_pacto/rotina_prescricao_pacto.php",
-    "https://mqv.institutodoalivio.com.br/Tasks/integracao_evo/rotina_prescricao2_allp.php"
+    "https://mqv.institutodoalivio.com.br/Tasks/integracao_evo/rotina_prescricao2_allp.php",
+    "https://mqv.institutodoalivio.com.br/Tasks/integracao_pacto/rotina_prescricao2_pacto.php"
 ]
 
 options = Options()
